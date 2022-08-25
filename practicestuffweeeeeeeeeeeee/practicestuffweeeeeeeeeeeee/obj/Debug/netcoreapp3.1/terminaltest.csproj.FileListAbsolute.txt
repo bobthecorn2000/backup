@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\terminaltest.exe
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\terminaltest.deps.json
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\terminaltest.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\terminaltest.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\terminaltest.dll
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\terminaltest.pdb
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.dll
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.pdb
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\terminaltest.genruntimeconfig.cache

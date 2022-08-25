@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.exe
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.deps.json
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.dll
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\bin\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.pdb
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.dll
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.pdb
+C:\Users\tforsgren\Documents\backup\practicestuffweeeeeeeeeeeee\practicestuffweeeeeeeeeeeee\obj\Debug\netcoreapp3.1\practicestuffweeeeeeeeeeeee.genruntimeconfig.cache

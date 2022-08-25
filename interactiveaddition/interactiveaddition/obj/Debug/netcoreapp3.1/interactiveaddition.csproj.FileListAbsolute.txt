@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\bin\Debug\netcoreapp3.1\interactiveaddition.exe
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\bin\Debug\netcoreapp3.1\interactiveaddition.deps.json
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\bin\Debug\netcoreapp3.1\interactiveaddition.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\bin\Debug\netcoreapp3.1\interactiveaddition.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\bin\Debug\netcoreapp3.1\interactiveaddition.dll
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\bin\Debug\netcoreapp3.1\interactiveaddition.pdb
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.dll
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.pdb
+C:\Users\tforsgren\Documents\backup\interactiveaddition\interactiveaddition\obj\Debug\netcoreapp3.1\interactiveaddition.genruntimeconfig.cache
