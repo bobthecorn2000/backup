@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\animal\animal\bin\Debug\netcoreapp3.1\animal.exe
+C:\Users\tforsgren\Documents\backup\animal\animal\bin\Debug\netcoreapp3.1\animal.deps.json
+C:\Users\tforsgren\Documents\backup\animal\animal\bin\Debug\netcoreapp3.1\animal.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\animal\animal\bin\Debug\netcoreapp3.1\animal.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\animal\animal\bin\Debug\netcoreapp3.1\animal.dll
+C:\Users\tforsgren\Documents\backup\animal\animal\bin\Debug\netcoreapp3.1\animal.pdb
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.dll
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.pdb
+C:\Users\tforsgren\Documents\backup\animal\animal\obj\Debug\netcoreapp3.1\animal.genruntimeconfig.cache

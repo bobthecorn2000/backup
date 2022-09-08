@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\zero\zero\bin\Debug\netcoreapp3.1\zero.exe
+C:\Users\tforsgren\Documents\backup\zero\zero\bin\Debug\netcoreapp3.1\zero.deps.json
+C:\Users\tforsgren\Documents\backup\zero\zero\bin\Debug\netcoreapp3.1\zero.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\zero\zero\bin\Debug\netcoreapp3.1\zero.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\zero\zero\bin\Debug\netcoreapp3.1\zero.dll
+C:\Users\tforsgren\Documents\backup\zero\zero\bin\Debug\netcoreapp3.1\zero.pdb
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.dll
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.pdb
+C:\Users\tforsgren\Documents\backup\zero\zero\obj\Debug\netcoreapp3.1\zero.genruntimeconfig.cache

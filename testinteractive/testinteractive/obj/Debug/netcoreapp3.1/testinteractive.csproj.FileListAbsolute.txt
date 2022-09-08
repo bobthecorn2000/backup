@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\bin\Debug\netcoreapp3.1\testinteractive.exe
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\bin\Debug\netcoreapp3.1\testinteractive.deps.json
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\bin\Debug\netcoreapp3.1\testinteractive.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\bin\Debug\netcoreapp3.1\testinteractive.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\bin\Debug\netcoreapp3.1\testinteractive.dll
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\bin\Debug\netcoreapp3.1\testinteractive.pdb
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.dll
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.pdb
+C:\Users\tforsgren\Documents\backup\testinteractive\testinteractive\obj\Debug\netcoreapp3.1\testinteractive.genruntimeconfig.cache

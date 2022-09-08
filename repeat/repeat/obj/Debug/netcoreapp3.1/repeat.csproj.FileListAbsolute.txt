@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\repeat\repeat\bin\Debug\netcoreapp3.1\repeat.exe
+C:\Users\tforsgren\Documents\backup\repeat\repeat\bin\Debug\netcoreapp3.1\repeat.deps.json
+C:\Users\tforsgren\Documents\backup\repeat\repeat\bin\Debug\netcoreapp3.1\repeat.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\repeat\repeat\bin\Debug\netcoreapp3.1\repeat.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\repeat\repeat\bin\Debug\netcoreapp3.1\repeat.dll
+C:\Users\tforsgren\Documents\backup\repeat\repeat\bin\Debug\netcoreapp3.1\repeat.pdb
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.dll
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.pdb
+C:\Users\tforsgren\Documents\backup\repeat\repeat\obj\Debug\netcoreapp3.1\repeat.genruntimeconfig.cache

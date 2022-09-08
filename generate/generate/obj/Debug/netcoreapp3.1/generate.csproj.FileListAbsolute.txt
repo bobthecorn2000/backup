@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\generate\generate\bin\Debug\netcoreapp3.1\generate.exe
+C:\Users\tforsgren\Documents\backup\generate\generate\bin\Debug\netcoreapp3.1\generate.deps.json
+C:\Users\tforsgren\Documents\backup\generate\generate\bin\Debug\netcoreapp3.1\generate.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\generate\generate\bin\Debug\netcoreapp3.1\generate.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\generate\generate\bin\Debug\netcoreapp3.1\generate.dll
+C:\Users\tforsgren\Documents\backup\generate\generate\bin\Debug\netcoreapp3.1\generate.pdb
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.dll
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.pdb
+C:\Users\tforsgren\Documents\backup\generate\generate\obj\Debug\netcoreapp3.1\generate.genruntimeconfig.cache

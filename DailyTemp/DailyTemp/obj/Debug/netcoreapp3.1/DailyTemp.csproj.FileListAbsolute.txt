@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\bin\Debug\netcoreapp3.1\DailyTemp.exe
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\bin\Debug\netcoreapp3.1\DailyTemp.deps.json
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\bin\Debug\netcoreapp3.1\DailyTemp.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\bin\Debug\netcoreapp3.1\DailyTemp.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\bin\Debug\netcoreapp3.1\DailyTemp.dll
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\bin\Debug\netcoreapp3.1\DailyTemp.pdb
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.dll
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.pdb
+C:\Users\tforsgren\Documents\backup\DailyTemp\DailyTemp\obj\Debug\netcoreapp3.1\DailyTemp.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\validId\validId\bin\Debug\netcoreapp3.1\validId.exe
+C:\Users\tforsgren\Documents\backup\validId\validId\bin\Debug\netcoreapp3.1\validId.deps.json
+C:\Users\tforsgren\Documents\backup\validId\validId\bin\Debug\netcoreapp3.1\validId.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\validId\validId\bin\Debug\netcoreapp3.1\validId.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\validId\validId\bin\Debug\netcoreapp3.1\validId.dll
+C:\Users\tforsgren\Documents\backup\validId\validId\bin\Debug\netcoreapp3.1\validId.pdb
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.dll
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.pdb
+C:\Users\tforsgren\Documents\backup\validId\validId\obj\Debug\netcoreapp3.1\validId.genruntimeconfig.cache

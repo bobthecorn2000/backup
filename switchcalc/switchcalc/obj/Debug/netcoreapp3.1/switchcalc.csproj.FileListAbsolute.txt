@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\bin\Debug\netcoreapp3.1\switchcalc.exe
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\bin\Debug\netcoreapp3.1\switchcalc.deps.json
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\bin\Debug\netcoreapp3.1\switchcalc.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\bin\Debug\netcoreapp3.1\switchcalc.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\bin\Debug\netcoreapp3.1\switchcalc.dll
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\bin\Debug\netcoreapp3.1\switchcalc.pdb
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.dll
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.pdb
+C:\Users\tforsgren\Documents\backup\switchcalc\switchcalc\obj\Debug\netcoreapp3.1\switchcalc.genruntimeconfig.cache

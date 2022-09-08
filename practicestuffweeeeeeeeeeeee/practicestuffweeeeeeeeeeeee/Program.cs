@@ -1,6 +1,6 @@
-﻿using System;
+﻿using System; 
 using System.Diagnostics;
-
+using static System.Console;
 namespace terminal
 {
     internal class Program
@@ -18,11 +18,14 @@ namespace terminal
 
              }*/
 
+
             static void start()
             {
                 Console.Write("A:\\ApertureLabs-"+Environment.MachineName+"\\"+Environment.UserName+"\\CommandCenter> ");
-                var command = Console.ReadLine();
-                if (command == "WordSeperate")
+                
+                string input = Console.ReadLine();
+                string command = input.ToLower();
+                if (command == "wordseperate")
                 {
                     Console.WriteLine("Word to seperate");
                     var word = Console.ReadLine();
@@ -36,7 +39,7 @@ namespace terminal
                     }
                     start();
                 }
-                else if (command == "backWord")
+                else if (command == "backword")
                 {
                     Console.WriteLine("Word to reverse");
                     var word = Console.ReadLine();
@@ -52,7 +55,7 @@ namespace terminal
                     Console.WriteLine();
                     start();
                 }
-                else if (command == "Swap")
+                else if (command == "swap")
                 {
                     Console.WriteLine("Word to Swap");
                     var word = Console.ReadLine();
@@ -87,7 +90,7 @@ namespace terminal
                     });
                     start();
                 }
-                else if (command == "enumTest")
+                else if (command == "enumtest")
                 {
 
                     Day();
@@ -99,11 +102,47 @@ namespace terminal
                 }
                 else if (command == "clear") { Console.Clear(); start(); }
                 else if (command == "check") { Console.WriteLine("test"); start(); }
+                else if (command == "triangle")
+                {
+                    WriteLine("Enter a value for Side 1");
+                    int side1 = int.Parse(ReadLine());
+                    WriteLine("Enter a value for Side 2");
+                    int side2 = int.Parse(ReadLine());
+                    WriteLine("Enter a value for Side 3");
+                    int side3 = int.Parse(ReadLine());
+                    if (side1 == side2 && side2 == side3)
+                    {
+                        WriteLine("Equilateral triangle; All sides are equal");
+                    }
+                    else if (side1 == side2 || side1 == side3 || side2 == side3)
+                    {
+                        WriteLine("Isosceles triangle: Two sides are equal");
+                    }
+                    else if (side1 != side2 && side1 != side3 && side2 != side3)
+                    {
+                        WriteLine("no sides are equal");
+                    }
+                    else
+                    {
+                        WriteLine("you done goofed");
+                    }
+                    start();
+                }
                 else
 
                 {
-                    Console.WriteLine("Not a command");
-                    start();
+                    switch (command) {
+                        case "new stuff":
+                            newstuff();
+                            start();
+                            break;
+                        default:
+                            Console.WriteLine("Not a command");
+                            start();
+                            break;
+                    }
+                    
+                    
                 }
 
 
@@ -129,6 +168,12 @@ namespace terminal
 
                 }
             }
+        }
+
+        static void newstuff()
+        {
+            WriteLine("success");
+            return;
         }
     }
 }

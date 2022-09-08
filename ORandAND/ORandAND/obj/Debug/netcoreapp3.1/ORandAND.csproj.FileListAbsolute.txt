@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\bin\Debug\netcoreapp3.1\ORandAND.exe
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\bin\Debug\netcoreapp3.1\ORandAND.deps.json
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\bin\Debug\netcoreapp3.1\ORandAND.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\bin\Debug\netcoreapp3.1\ORandAND.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\bin\Debug\netcoreapp3.1\ORandAND.dll
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\bin\Debug\netcoreapp3.1\ORandAND.pdb
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.dll
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.pdb
+C:\Users\tforsgren\Documents\backup\ORandAND\ORandAND\obj\Debug\netcoreapp3.1\ORandAND.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\bin\Debug\netcoreapp3.1\gradecalc.exe
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\bin\Debug\netcoreapp3.1\gradecalc.deps.json
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\bin\Debug\netcoreapp3.1\gradecalc.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\bin\Debug\netcoreapp3.1\gradecalc.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\bin\Debug\netcoreapp3.1\gradecalc.dll
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\bin\Debug\netcoreapp3.1\gradecalc.pdb
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.dll
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.pdb
+C:\Users\tforsgren\Documents\backup\gradecalc\gradecalc\obj\Debug\netcoreapp3.1\gradecalc.genruntimeconfig.cache

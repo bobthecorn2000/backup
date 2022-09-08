@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.exe
+C:\Users\tforsgren\Documents\backup\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.deps.json
+C:\Users\tforsgren\Documents\backup\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.dll
+C:\Users\tforsgren\Documents\backup\triangle\triangle\bin\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.dll
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.pdb
+C:\Users\tforsgren\Documents\backup\triangle\triangle\obj\Debug\netcoreapp3.1\triangle.genruntimeconfig.cache

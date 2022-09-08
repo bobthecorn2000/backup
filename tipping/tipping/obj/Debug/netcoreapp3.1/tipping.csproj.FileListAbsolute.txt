@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\tipping\tipping\bin\Debug\netcoreapp3.1\tipping.exe
+C:\Users\tforsgren\Documents\backup\tipping\tipping\bin\Debug\netcoreapp3.1\tipping.deps.json
+C:\Users\tforsgren\Documents\backup\tipping\tipping\bin\Debug\netcoreapp3.1\tipping.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\tipping\tipping\bin\Debug\netcoreapp3.1\tipping.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\tipping\tipping\bin\Debug\netcoreapp3.1\tipping.dll
+C:\Users\tforsgren\Documents\backup\tipping\tipping\bin\Debug\netcoreapp3.1\tipping.pdb
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.dll
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.pdb
+C:\Users\tforsgren\Documents\backup\tipping\tipping\obj\Debug\netcoreapp3.1\tipping.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\bin\Debug\netcoreapp3.1\comparenumber.exe
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\bin\Debug\netcoreapp3.1\comparenumber.deps.json
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\bin\Debug\netcoreapp3.1\comparenumber.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\bin\Debug\netcoreapp3.1\comparenumber.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\bin\Debug\netcoreapp3.1\comparenumber.dll
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\bin\Debug\netcoreapp3.1\comparenumber.pdb
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.dll
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.pdb
+C:\Users\tforsgren\Documents\backup\comparenumber\comparenumber\obj\Debug\netcoreapp3.1\comparenumber.genruntimeconfig.cache

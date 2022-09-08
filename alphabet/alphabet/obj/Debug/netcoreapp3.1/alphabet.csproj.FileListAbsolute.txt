@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\bin\Debug\netcoreapp3.1\alphabet.exe
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\bin\Debug\netcoreapp3.1\alphabet.deps.json
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\bin\Debug\netcoreapp3.1\alphabet.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\bin\Debug\netcoreapp3.1\alphabet.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\bin\Debug\netcoreapp3.1\alphabet.dll
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\bin\Debug\netcoreapp3.1\alphabet.pdb
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.dll
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.pdb
+C:\Users\tforsgren\Documents\backup\alphabet\alphabet\obj\Debug\netcoreapp3.1\alphabet.genruntimeconfig.cache
