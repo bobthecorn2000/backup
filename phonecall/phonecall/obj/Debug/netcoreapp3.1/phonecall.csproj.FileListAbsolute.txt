@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\bin\Debug\netcoreapp3.1\phonecall.exe
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\bin\Debug\netcoreapp3.1\phonecall.deps.json
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\bin\Debug\netcoreapp3.1\phonecall.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\bin\Debug\netcoreapp3.1\phonecall.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\bin\Debug\netcoreapp3.1\phonecall.dll
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\bin\Debug\netcoreapp3.1\phonecall.pdb
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.dll
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.pdb
+C:\Users\tforsgren\Documents\backup\phonecall\phonecall\obj\Debug\netcoreapp3.1\phonecall.genruntimeconfig.cache

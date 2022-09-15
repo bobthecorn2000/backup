@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\zort\zort\bin\Debug\netcoreapp3.1\zort.exe
+C:\Users\tforsgren\Documents\backup\zort\zort\bin\Debug\netcoreapp3.1\zort.deps.json
+C:\Users\tforsgren\Documents\backup\zort\zort\bin\Debug\netcoreapp3.1\zort.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\zort\zort\bin\Debug\netcoreapp3.1\zort.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\zort\zort\bin\Debug\netcoreapp3.1\zort.dll
+C:\Users\tforsgren\Documents\backup\zort\zort\bin\Debug\netcoreapp3.1\zort.pdb
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.dll
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.pdb
+C:\Users\tforsgren\Documents\backup\zort\zort\obj\Debug\netcoreapp3.1\zort.genruntimeconfig.cache

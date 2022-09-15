@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demologo", "demologo\demologo.csproj", "{ED66FEC9-B86C-4FD6-ADBF-EFE2C06D6FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED66FEC9-B86C-4FD6-ADBF-EFE2C06D6FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED66FEC9-B86C-4FD6-ADBF-EFE2C06D6FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED66FEC9-B86C-4FD6-ADBF-EFE2C06D6FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED66FEC9-B86C-4FD6-ADBF-EFE2C06D6FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D67845-9BDA-4ED2-B550-FBBACCAE1F88}
+	EndGlobalSection
+EndGlobal

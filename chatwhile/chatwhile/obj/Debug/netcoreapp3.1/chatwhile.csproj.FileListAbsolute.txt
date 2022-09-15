@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\bin\Debug\netcoreapp3.1\chatwhile.exe
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\bin\Debug\netcoreapp3.1\chatwhile.deps.json
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\bin\Debug\netcoreapp3.1\chatwhile.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\bin\Debug\netcoreapp3.1\chatwhile.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\bin\Debug\netcoreapp3.1\chatwhile.dll
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\bin\Debug\netcoreapp3.1\chatwhile.pdb
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.dll
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.pdb
+C:\Users\tforsgren\Documents\backup\chatwhile\chatwhile\obj\Debug\netcoreapp3.1\chatwhile.genruntimeconfig.cache

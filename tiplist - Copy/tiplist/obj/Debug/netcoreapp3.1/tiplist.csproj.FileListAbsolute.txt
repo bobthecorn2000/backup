@@ -1,0 +1,28 @@
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\bin\Debug\netcoreapp3.1\tiplist.exe
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\bin\Debug\netcoreapp3.1\tiplist.deps.json
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\bin\Debug\netcoreapp3.1\tiplist.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\bin\Debug\netcoreapp3.1\tiplist.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\bin\Debug\netcoreapp3.1\tiplist.dll
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\bin\Debug\netcoreapp3.1\tiplist.pdb
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.dll
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.pdb
+C:\Users\tforsgren\Documents\backup\tiplist\tiplist\obj\Debug\netcoreapp3.1\tiplist.genruntimeconfig.cache
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\bin\Debug\netcoreapp3.1\tiplist.exe
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\bin\Debug\netcoreapp3.1\tiplist.deps.json
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\bin\Debug\netcoreapp3.1\tiplist.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\bin\Debug\netcoreapp3.1\tiplist.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\bin\Debug\netcoreapp3.1\tiplist.dll
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\bin\Debug\netcoreapp3.1\tiplist.pdb
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.dll
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.pdb
+C:\Users\tforsgren\Documents\backup\tiplist - Copy\tiplist\obj\Debug\netcoreapp3.1\tiplist.genruntimeconfig.cache

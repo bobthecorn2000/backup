@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\demologo\demologo\bin\Debug\netcoreapp3.1\demologo.exe
+C:\Users\tforsgren\Documents\backup\demologo\demologo\bin\Debug\netcoreapp3.1\demologo.deps.json
+C:\Users\tforsgren\Documents\backup\demologo\demologo\bin\Debug\netcoreapp3.1\demologo.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\demologo\demologo\bin\Debug\netcoreapp3.1\demologo.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\demologo\demologo\bin\Debug\netcoreapp3.1\demologo.dll
+C:\Users\tforsgren\Documents\backup\demologo\demologo\bin\Debug\netcoreapp3.1\demologo.pdb
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.dll
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.pdb
+C:\Users\tforsgren\Documents\backup\demologo\demologo\obj\Debug\netcoreapp3.1\demologo.genruntimeconfig.cache

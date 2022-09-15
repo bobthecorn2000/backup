@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\bin\Debug\netcoreapp3.1\multiplier.exe
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\bin\Debug\netcoreapp3.1\multiplier.deps.json
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\bin\Debug\netcoreapp3.1\multiplier.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\bin\Debug\netcoreapp3.1\multiplier.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\bin\Debug\netcoreapp3.1\multiplier.dll
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\bin\Debug\netcoreapp3.1\multiplier.pdb
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.dll
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.pdb
+C:\Users\tforsgren\Documents\backup\multiplier\multiplier\obj\Debug\netcoreapp3.1\multiplier.genruntimeconfig.cache

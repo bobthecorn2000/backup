@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\bin\Debug\netcoreapp3.1\youdoit.exe
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\bin\Debug\netcoreapp3.1\youdoit.deps.json
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\bin\Debug\netcoreapp3.1\youdoit.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\bin\Debug\netcoreapp3.1\youdoit.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\bin\Debug\netcoreapp3.1\youdoit.dll
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\bin\Debug\netcoreapp3.1\youdoit.pdb
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.dll
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.pdb
+C:\Users\tforsgren\Documents\backup\youdoit\youdoit\obj\Debug\netcoreapp3.1\youdoit.genruntimeconfig.cache
