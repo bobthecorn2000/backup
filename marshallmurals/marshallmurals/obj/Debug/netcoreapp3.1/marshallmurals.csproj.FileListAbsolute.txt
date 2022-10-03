@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\bin\Debug\netcoreapp3.1\marshallmurals.exe
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\bin\Debug\netcoreapp3.1\marshallmurals.deps.json
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\bin\Debug\netcoreapp3.1\marshallmurals.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\bin\Debug\netcoreapp3.1\marshallmurals.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\bin\Debug\netcoreapp3.1\marshallmurals.dll
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\bin\Debug\netcoreapp3.1\marshallmurals.pdb
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.dll
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.pdb
+C:\Users\tforsgren\Documents\backup\marshallmurals\marshallmurals\obj\Debug\netcoreapp3.1\marshallmurals.genruntimeconfig.cache

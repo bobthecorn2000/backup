@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\tforsgren\Documents\backup\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache

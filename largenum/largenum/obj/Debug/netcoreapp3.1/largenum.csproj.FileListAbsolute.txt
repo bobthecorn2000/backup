@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\largenum\largenum\bin\Debug\netcoreapp3.1\largenum.exe
+C:\Users\tforsgren\Documents\backup\largenum\largenum\bin\Debug\netcoreapp3.1\largenum.deps.json
+C:\Users\tforsgren\Documents\backup\largenum\largenum\bin\Debug\netcoreapp3.1\largenum.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\largenum\largenum\bin\Debug\netcoreapp3.1\largenum.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\largenum\largenum\bin\Debug\netcoreapp3.1\largenum.dll
+C:\Users\tforsgren\Documents\backup\largenum\largenum\bin\Debug\netcoreapp3.1\largenum.pdb
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.dll
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.pdb
+C:\Users\tforsgren\Documents\backup\largenum\largenum\obj\Debug\netcoreapp3.1\largenum.genruntimeconfig.cache

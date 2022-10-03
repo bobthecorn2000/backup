@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\referance\referance\bin\Debug\netcoreapp3.1\referance.exe
+C:\Users\tforsgren\Documents\backup\referance\referance\bin\Debug\netcoreapp3.1\referance.deps.json
+C:\Users\tforsgren\Documents\backup\referance\referance\bin\Debug\netcoreapp3.1\referance.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\referance\referance\bin\Debug\netcoreapp3.1\referance.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\referance\referance\bin\Debug\netcoreapp3.1\referance.dll
+C:\Users\tforsgren\Documents\backup\referance\referance\bin\Debug\netcoreapp3.1\referance.pdb
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.dll
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.pdb
+C:\Users\tforsgren\Documents\backup\referance\referance\obj\Debug\netcoreapp3.1\referance.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\bin\Debug\netcoreapp3.1\TylerForsgrenFinalProject.exe
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\bin\Debug\netcoreapp3.1\TylerForsgrenFinalProject.deps.json
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\bin\Debug\netcoreapp3.1\TylerForsgrenFinalProject.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\bin\Debug\netcoreapp3.1\TylerForsgrenFinalProject.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\bin\Debug\netcoreapp3.1\TylerForsgrenFinalProject.dll
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\bin\Debug\netcoreapp3.1\TylerForsgrenFinalProject.pdb
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.dll
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.pdb
+C:\Users\tforsgren\Documents\backup\TylerForsgrenFinalProject\TylerForsgrenFinalProject\obj\Debug\netcoreapp3.1\TylerForsgrenFinalProject.genruntimeconfig.cache

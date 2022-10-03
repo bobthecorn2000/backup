@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\Users\tforsgren\Documents\backup\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.genruntimeconfig.cache

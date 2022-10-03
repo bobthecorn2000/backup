@@ -14,5 +14,9 @@ namespace multiplier
         static void test(int args) {
             Console.WriteLine(args);
         }
+        static void test(double args)
+        {
+            Console.WriteLine(args);
+        }
     }
 }

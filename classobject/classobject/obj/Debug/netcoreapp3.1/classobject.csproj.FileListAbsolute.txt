@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\classobject\classobject\bin\Debug\netcoreapp3.1\classobject.exe
+C:\Users\tforsgren\Documents\backup\classobject\classobject\bin\Debug\netcoreapp3.1\classobject.deps.json
+C:\Users\tforsgren\Documents\backup\classobject\classobject\bin\Debug\netcoreapp3.1\classobject.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\classobject\classobject\bin\Debug\netcoreapp3.1\classobject.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\classobject\classobject\bin\Debug\netcoreapp3.1\classobject.dll
+C:\Users\tforsgren\Documents\backup\classobject\classobject\bin\Debug\netcoreapp3.1\classobject.pdb
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.dll
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.pdb
+C:\Users\tforsgren\Documents\backup\classobject\classobject\obj\Debug\netcoreapp3.1\classobject.genruntimeconfig.cache

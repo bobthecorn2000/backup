@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largenum", "largenum\largenum.csproj", "{CA80D046-3066-48C0-9046-62B3C8CD924E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA80D046-3066-48C0-9046-62B3C8CD924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA80D046-3066-48C0-9046-62B3C8CD924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA80D046-3066-48C0-9046-62B3C8CD924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA80D046-3066-48C0-9046-62B3C8CD924E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3EAA35-0E80-4945-A330-855C26B20C45}
+	EndGlobalSection
+EndGlobal
