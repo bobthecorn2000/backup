@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6CY4mtDrV4IANEBILGx0k2UkEaHMK23JUFa6g+VYhMSkC9Dos4e68uuFTENfprT165vDJel08XUTdOhwcppoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tforsgren\\Documents\\backup\\WpfApp3\\WpfApp3\\WpfApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tforsgren\\.nuget\\packages\\fluentwpf\\0.10.2\\fluentwpf.0.10.2.nupkg.sha512",
+    "C:\\Users\\tforsgren\\.nuget\\packages\\microsoft.web.webview2\\1.0.1343.22\\microsoft.web.webview2.1.0.1343.22.nupkg.sha512"
+  ],
+  "logs": []
+}

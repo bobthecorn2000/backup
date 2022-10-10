@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\loan\loan\bin\Debug\netcoreapp3.1\loan.exe
+C:\Users\tforsgren\Documents\backup\loan\loan\bin\Debug\netcoreapp3.1\loan.deps.json
+C:\Users\tforsgren\Documents\backup\loan\loan\bin\Debug\netcoreapp3.1\loan.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\loan\loan\bin\Debug\netcoreapp3.1\loan.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\loan\loan\bin\Debug\netcoreapp3.1\loan.dll
+C:\Users\tforsgren\Documents\backup\loan\loan\bin\Debug\netcoreapp3.1\loan.pdb
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.dll
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.pdb
+C:\Users\tforsgren\Documents\backup\loan\loan\obj\Debug\netcoreapp3.1\loan.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\bin\Debug\netcoreapp3.1\carloan2.exe
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\bin\Debug\netcoreapp3.1\carloan2.deps.json
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\bin\Debug\netcoreapp3.1\carloan2.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\bin\Debug\netcoreapp3.1\carloan2.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\bin\Debug\netcoreapp3.1\carloan2.dll
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\bin\Debug\netcoreapp3.1\carloan2.pdb
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.dll
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.pdb
+C:\Users\tforsgren\Documents\backup\carloan2\carloan2\obj\Debug\netcoreapp3.1\carloan2.genruntimeconfig.cache

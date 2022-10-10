@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\carloan\carloan\bin\Debug\netcoreapp3.1\carloan.exe
+C:\Users\tforsgren\Documents\backup\carloan\carloan\bin\Debug\netcoreapp3.1\carloan.deps.json
+C:\Users\tforsgren\Documents\backup\carloan\carloan\bin\Debug\netcoreapp3.1\carloan.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\carloan\carloan\bin\Debug\netcoreapp3.1\carloan.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\carloan\carloan\bin\Debug\netcoreapp3.1\carloan.dll
+C:\Users\tforsgren\Documents\backup\carloan\carloan\bin\Debug\netcoreapp3.1\carloan.pdb
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.dll
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.pdb
+C:\Users\tforsgren\Documents\backup\carloan\carloan\obj\Debug\netcoreapp3.1\carloan.genruntimeconfig.cache

@@ -1,0 +1,44 @@
+﻿<fw:AcrylicWindow x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:fw="clr-namespace:SourceChord.FluentWPF;assembly=FluentWPF"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3" 
+        xmlns:wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        mc:Ignorable="d"
+        Title="big test thing"  WindowState="Maximized" Width="1090" Height="720" fw:AcrylicWindow.Enabled="True" AcrylicWindowStyle="Normal">
+    <Grid  fw:PointerTracker.Enabled="True" fw:AcrylicWindow.Enabled="True">
+
+
+      <TabControl x:Name="tbControl" Margin="0,0,0,27" fw:PointerTracker.Enabled="True" Background="Transparent">
+            <TabItem x:Name="testname" Header="firsttab" >
+                <DockPanel Background="Transparent" fw:PointerTracker.Enabled="True">
+                    <DockPanel DockPanel.Dock="Top">
+                        <Button Background="Transparent" x:Name="ButtonGo" DockPanel.Dock="Right" Click="ButtonGo_Click" Content="Go" fw:PointerTracker.Enabled="True" Style="{StaticResource ButtonRevealStyle}"/>
+                        <TextBox Name = "addressBar"   fw:PointerTracker.Enabled="True" Style="{StaticResource TextBoxRevealStyle}"/>
+                    </DockPanel>
+                    <wpf:WebView2 Name = "webView" Source="https://www.google.com" Margin="0,0,0,-1" Height="1017" />
+                </DockPanel>
+                
+            </TabItem>
+
+
+
+        </TabControl>
+
+
+
+
+
+
+
+        <Button x:Name="btnAdd" Content="Add New Tab" HorizontalAlignment="Right" VerticalAlignment="Top" Width="109" Height="22" Click="btnAdd_Click" fw:PointerTracker.Enabled="True" Style="{StaticResource ButtonRevealStyle}"/>
+        <ProgressBar HorizontalAlignment="Left" Height="34" Margin="211,320,0,0" VerticalAlignment="Top" Width="484" IsIndeterminate="True" Value="20" Grid.Column="2" Grid.ColumnSpan="2" fw:PointerTracker.Enabled="True" />
+
+       
+    </Grid>
+        
+        
+    
+</fw:AcrylicWindow>
