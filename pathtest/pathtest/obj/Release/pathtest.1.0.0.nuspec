@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pathtest</id>
+    <version>1.0.0</version>
+    <authors>pathtest</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Release\netcoreapp3.1\pathtest.runtimeconfig.json" target="lib\netcoreapp3.1\pathtest.runtimeconfig.json" />
+    <file src="C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Release\netcoreapp3.1\pathtest.dll" target="lib\netcoreapp3.1\pathtest.dll" />
+  </files>
+</package>

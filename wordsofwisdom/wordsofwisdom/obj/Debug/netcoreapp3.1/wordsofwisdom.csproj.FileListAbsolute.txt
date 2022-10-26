@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\bin\Debug\netcoreapp3.1\wordsofwisdom.exe
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\bin\Debug\netcoreapp3.1\wordsofwisdom.deps.json
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\bin\Debug\netcoreapp3.1\wordsofwisdom.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\bin\Debug\netcoreapp3.1\wordsofwisdom.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\bin\Debug\netcoreapp3.1\wordsofwisdom.dll
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\bin\Debug\netcoreapp3.1\wordsofwisdom.pdb
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.Form1.resources
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.dll
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.pdb
+C:\Users\tforsgren\Documents\backup\wordsofwisdom\wordsofwisdom\obj\Debug\netcoreapp3.1\wordsofwisdom.genruntimeconfig.cache

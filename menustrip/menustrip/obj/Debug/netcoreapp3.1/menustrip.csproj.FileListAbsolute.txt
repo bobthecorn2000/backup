@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\bin\Debug\netcoreapp3.1\menustrip.exe
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\bin\Debug\netcoreapp3.1\menustrip.deps.json
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\bin\Debug\netcoreapp3.1\menustrip.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\bin\Debug\netcoreapp3.1\menustrip.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\bin\Debug\netcoreapp3.1\menustrip.dll
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\bin\Debug\netcoreapp3.1\menustrip.pdb
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.Form1.resources
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.dll
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.pdb
+C:\Users\tforsgren\Documents\backup\menustrip\menustrip\obj\Debug\netcoreapp3.1\menustrip.genruntimeconfig.cache

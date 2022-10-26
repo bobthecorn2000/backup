@@ -16,16 +16,19 @@ using System.Windows.Shapes;
 //using Windows.Storage;
 using Microsoft.Web.WebView2.Core;
 using System.Reflection.Metadata.Ecma335;
+using SourceChord.FluentWPF;
 
 namespace WpfApp3
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-
+    
     public partial class MainWindow 
     {
-        Uri myUri = new Uri("https://www.google.com", UriKind.Absolute);
+        public string accent = "fw:AccentColors.ImmersiveSystemAccentBrush";
+    
+    Uri myUri = new Uri("https://www.google.com", UriKind.Absolute);
         public MainWindow()
         {
         
@@ -65,20 +68,24 @@ namespace WpfApp3
         }
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-           /* TabItem newTabItem = new TabItem
-            {
-                Header = "Test",
-                Name = "Test"
-                 
-            };
-            tbControl.Items.Add(newTabItem);*/
-             WebView2 webBrowser3 = new WebView2
-            {
-               
-                Source = myUri,
+            new MainWindow().Show(); 
+            //TabItem newTabItem = new TabItem
+            //{
+            //    Header = "Test",
+            //    Name = "Test",
                 
-            };
-            tbControl.Items.Add(webBrowser3);
+                 
+            //};
+            
+            //tbControl.Items.Add(newTabItem);
+            // WebView2 webBrowser3 = new WebView2
+            //{
+               
+            //    Source = myUri,
+                
+            //};
+            
+            //newTabItem.Children.Add(webBrowser3);
 
         }
     }

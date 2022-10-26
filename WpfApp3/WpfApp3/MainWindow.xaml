@@ -7,18 +7,21 @@
         xmlns:local="clr-namespace:WpfApp3" 
         xmlns:wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
         mc:Ignorable="d"
-        Title="big test thing"  WindowState="Maximized" Width="1090" Height="720" fw:AcrylicWindow.Enabled="True" AcrylicWindowStyle="Normal">
-    <Grid  fw:PointerTracker.Enabled="True" fw:AcrylicWindow.Enabled="True">
+        Title="big test thing" Width="1080" Height="720" fw:AcrylicWindow.Enabled="True" AcrylicWindowStyle="Normal" SizeToContent="WidthAndHeight"  >
+
+
+
+    <Grid  fw:PointerTracker.Enabled="True" fw:AcrylicWindow.Enabled="True" >
 
 
       <TabControl x:Name="tbControl" Margin="0,0,0,27" fw:PointerTracker.Enabled="True" Background="Transparent">
-            <TabItem x:Name="testname" Header="firsttab" >
+            <TabItem  x:Name="testname" Header="firsttab" >
                 <DockPanel Background="Transparent" fw:PointerTracker.Enabled="True">
                     <DockPanel DockPanel.Dock="Top">
                         <Button Background="Transparent" x:Name="ButtonGo" DockPanel.Dock="Right" Click="ButtonGo_Click" Content="Go" fw:PointerTracker.Enabled="True" Style="{StaticResource ButtonRevealStyle}"/>
                         <TextBox Name = "addressBar"   fw:PointerTracker.Enabled="True" Style="{StaticResource TextBoxRevealStyle}"/>
                     </DockPanel>
-                    <wpf:WebView2 Name = "webView" Source="https://www.google.com" Margin="0,0,0,-1" Height="1017" />
+                    <wpf:WebView2 Name = "webView" Source="https://www.google.com" Margin="0,0,0,0"  />
                 </DockPanel>
                 
             </TabItem>

@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\formthng\formthng\bin\Debug\netcoreapp3.1\formthng.exe
+C:\Users\tforsgren\Documents\backup\formthng\formthng\bin\Debug\netcoreapp3.1\formthng.deps.json
+C:\Users\tforsgren\Documents\backup\formthng\formthng\bin\Debug\netcoreapp3.1\formthng.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\formthng\formthng\bin\Debug\netcoreapp3.1\formthng.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\formthng\formthng\bin\Debug\netcoreapp3.1\formthng.dll
+C:\Users\tforsgren\Documents\backup\formthng\formthng\bin\Debug\netcoreapp3.1\formthng.pdb
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.Form1.resources
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.dll
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.pdb
+C:\Users\tforsgren\Documents\backup\formthng\formthng\obj\Debug\netcoreapp3.1\formthng.genruntimeconfig.cache

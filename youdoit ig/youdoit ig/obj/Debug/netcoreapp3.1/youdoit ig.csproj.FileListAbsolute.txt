@@ -1,0 +1,19 @@
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\youdoit ig.exe
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\youdoit ig.deps.json
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\youdoit ig.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\youdoit ig.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\youdoit ig.dll
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\youdoit ig.pdb
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit_ig.Form1.resources
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.dll
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.pdb
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.genruntimeconfig.cache
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\CommunityToolkit.WinUI.Notifications.dll
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\tforsgren\Documents\backup\youdoit ig\youdoit ig\obj\Debug\netcoreapp3.1\youdoit ig.csproj.CopyComplete

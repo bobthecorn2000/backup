@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\bin\Debug\netcoreapp3.1\tinatees.exe
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\bin\Debug\netcoreapp3.1\tinatees.deps.json
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\bin\Debug\netcoreapp3.1\tinatees.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\bin\Debug\netcoreapp3.1\tinatees.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\bin\Debug\netcoreapp3.1\tinatees.dll
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\bin\Debug\netcoreapp3.1\tinatees.pdb
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.Form1.resources
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.dll
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.pdb
+C:\Users\tforsgren\Documents\backup\tinatees\tinatees\obj\Debug\netcoreapp3.1\tinatees.genruntimeconfig.cache

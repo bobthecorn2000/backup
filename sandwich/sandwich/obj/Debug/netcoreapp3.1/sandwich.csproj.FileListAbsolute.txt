@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\bin\Debug\netcoreapp3.1\sandwich.exe
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\bin\Debug\netcoreapp3.1\sandwich.deps.json
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\bin\Debug\netcoreapp3.1\sandwich.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\bin\Debug\netcoreapp3.1\sandwich.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\bin\Debug\netcoreapp3.1\sandwich.dll
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\bin\Debug\netcoreapp3.1\sandwich.pdb
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.Form1.resources
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.dll
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.pdb
+C:\Users\tforsgren\Documents\backup\sandwich\sandwich\obj\Debug\netcoreapp3.1\sandwich.genruntimeconfig.cache

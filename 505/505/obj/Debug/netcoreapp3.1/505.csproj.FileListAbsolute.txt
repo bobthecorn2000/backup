@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\505\505\bin\Debug\netcoreapp3.1\505.exe
+C:\Users\tforsgren\Documents\backup\505\505\bin\Debug\netcoreapp3.1\505.deps.json
+C:\Users\tforsgren\Documents\backup\505\505\bin\Debug\netcoreapp3.1\505.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\505\505\bin\Debug\netcoreapp3.1\505.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\505\505\bin\Debug\netcoreapp3.1\505.dll
+C:\Users\tforsgren\Documents\backup\505\505\bin\Debug\netcoreapp3.1\505.pdb
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.dll
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.pdb
+C:\Users\tforsgren\Documents\backup\505\505\obj\Debug\netcoreapp3.1\505.genruntimeconfig.cache

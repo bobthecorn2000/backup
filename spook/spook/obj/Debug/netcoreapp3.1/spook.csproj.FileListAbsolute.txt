@@ -1,0 +1,17 @@
+C:\Users\tforsgren\Documents\backup\spook\spook\bin\Debug\netcoreapp3.1\spook.exe
+C:\Users\tforsgren\Documents\backup\spook\spook\bin\Debug\netcoreapp3.1\spook.deps.json
+C:\Users\tforsgren\Documents\backup\spook\spook\bin\Debug\netcoreapp3.1\spook.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\spook\spook\bin\Debug\netcoreapp3.1\spook.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\spook\spook\bin\Debug\netcoreapp3.1\spook.dll
+C:\Users\tforsgren\Documents\backup\spook\spook\bin\Debug\netcoreapp3.1\spook.pdb
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.Form1.resources
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.Properties.Resources.resources
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.dll
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.pdb
+C:\Users\tforsgren\Documents\backup\spook\spook\obj\Debug\netcoreapp3.1\spook.genruntimeconfig.cache

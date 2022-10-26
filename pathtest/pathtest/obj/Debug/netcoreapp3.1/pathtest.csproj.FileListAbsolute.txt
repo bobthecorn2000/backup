@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Debug\netcoreapp3.1\pathtest.exe
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Debug\netcoreapp3.1\pathtest.deps.json
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Debug\netcoreapp3.1\pathtest.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Debug\netcoreapp3.1\pathtest.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Debug\netcoreapp3.1\pathtest.dll
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\bin\Debug\netcoreapp3.1\pathtest.pdb
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.dll
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.pdb
+C:\Users\tforsgren\Documents\backup\pathtest\pathtest\obj\Debug\netcoreapp3.1\pathtest.genruntimeconfig.cache

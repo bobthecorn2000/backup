@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\bin\Debug\netcoreapp3.1\manybuttons.exe
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\bin\Debug\netcoreapp3.1\manybuttons.deps.json
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\bin\Debug\netcoreapp3.1\manybuttons.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\bin\Debug\netcoreapp3.1\manybuttons.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\bin\Debug\netcoreapp3.1\manybuttons.dll
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\bin\Debug\netcoreapp3.1\manybuttons.pdb
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.Form1.resources
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.dll
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.pdb
+C:\Users\tforsgren\Documents\backup\manybuttons\manybuttons\obj\Debug\netcoreapp3.1\manybuttons.genruntimeconfig.cache

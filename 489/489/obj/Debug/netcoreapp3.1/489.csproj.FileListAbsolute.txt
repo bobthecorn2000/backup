@@ -1,0 +1,14 @@
+C:\Users\tforsgren\Documents\backup\489\489\bin\Debug\netcoreapp3.1\489.exe
+C:\Users\tforsgren\Documents\backup\489\489\bin\Debug\netcoreapp3.1\489.deps.json
+C:\Users\tforsgren\Documents\backup\489\489\bin\Debug\netcoreapp3.1\489.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\489\489\bin\Debug\netcoreapp3.1\489.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\489\489\bin\Debug\netcoreapp3.1\489.dll
+C:\Users\tforsgren\Documents\backup\489\489\bin\Debug\netcoreapp3.1\489.pdb
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.dll
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.pdb
+C:\Users\tforsgren\Documents\backup\489\489\obj\Debug\netcoreapp3.1\489.genruntimeconfig.cache

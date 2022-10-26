@@ -1,0 +1,16 @@
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\bin\Debug\netcoreapp3.1\testformsig.exe
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\bin\Debug\netcoreapp3.1\testformsig.deps.json
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\bin\Debug\netcoreapp3.1\testformsig.runtimeconfig.json
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\bin\Debug\netcoreapp3.1\testformsig.runtimeconfig.dev.json
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\bin\Debug\netcoreapp3.1\testformsig.dll
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\bin\Debug\netcoreapp3.1\testformsig.pdb
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.csproj.AssemblyReference.cache
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.Form1.resources
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.csproj.GenerateResource.cache
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.AssemblyInfoInputs.cache
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.AssemblyInfo.cs
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.csproj.CoreCompileInputs.cache
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.dll
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.pdb
+C:\Users\tforsgren\Documents\backup\testformsig\testformsig\obj\Debug\netcoreapp3.1\testformsig.genruntimeconfig.cache

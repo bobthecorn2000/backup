@@ -1,0 +1,1 @@
+start "MyProgram" "firefox.exe"
